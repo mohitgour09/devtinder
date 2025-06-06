@@ -1,1 +1,3 @@
 /node_modules
+
+const mongodbURI = "mongodb+srv://mohitgour9539:cWqDtBRrxFOaD7uS@namastnode.43jn7hq.mongodb.net/"
